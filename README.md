@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a first-year AI & ML student at Newton School of Technology, Pune, with a passion for web and app development. I enjoy building clean, functional projects and constantly exploring new ways to turn ideas into reality. Curious and growth-driven, I’m focused on learning, creating, and collaborating in the tech space.
+I’m an AI & ML student at Newton School of Technology, Pune, with a passion for web and app development. I enjoy building clean, functional projects and constantly exploring new ways to turn ideas into reality. Curious and growth-driven, I’m focused on learning, creating, and collaborating in the tech space.
 
 
 ## 🌐 Socials:
